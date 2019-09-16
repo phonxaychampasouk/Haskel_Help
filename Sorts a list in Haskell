@@ -1,0 +1,7 @@
+Prelude> left = [1,2,3]
+Prelude> pivot = 4
+Prelude> right = [5,6,7]
+Prelude> left++ pivot : right
+[1,2,3,4,5,6,7]
+Prelude> 
+
